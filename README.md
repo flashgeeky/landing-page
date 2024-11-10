@@ -1,0 +1,1 @@
+This is my first landing page. I wiil be creating a design using html and css following the design provided by the odin project. Wish me luck :)
